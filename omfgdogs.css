@@ -5,8 +5,7 @@ body {
     font: 12px/32px courier, monospace;
 }
 
-.credit { 
-    color: #000; 
+a { 
     text-align:right;
     vertical-align:bottom;
 }
